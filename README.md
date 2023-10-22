@@ -1,3 +1,3 @@
 # git-demo
 <br>
-Mayank Rathi this side
+Author - Mayank Rathi this side
